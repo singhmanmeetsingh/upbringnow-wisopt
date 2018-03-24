@@ -8,7 +8,8 @@
 html,
 body {
   margin: 0;
-  background: #674172;
+  background: #009999;
+
 }
 
 canvas {
@@ -20,7 +21,7 @@ canvas {
   z-index: 4;
   height: 100%;
   height: 100vh;
-  background: #674172;
+  background: #009999;
 }
 
 .aa_sec {
@@ -35,7 +36,7 @@ canvas {
 .aa_txt {
   font: 100 10vh/1 Roboto;
   text-align: center;
-  color: #674172;
+  color: #009999;
 }
 
 .aa_inner {
@@ -56,7 +57,7 @@ canvas {
   vertical-align: bottom;
   margin: 5rem 0 5rem;
   text-align: center;
-  background: #674172;
+  background: #009999;
   color: #ffffff;
   font: 100 2vh/2 Roboto;
 }
